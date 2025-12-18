@@ -214,3 +214,4 @@ lab buildWalls(const lab& targetLab, cellTriple wallPos, int numRows, int numCol
 
 	return resultLab;
 }
+
